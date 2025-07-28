@@ -1,31 +1,35 @@
-<p align="center">
-  <img src="https://github.com/ngy-phnhi/ngy-phnhi/blob/main/assets/banner.png?raw=true" width="100%" alt="Portfolio Banner">
-</p>
-
 <h1 align="center">Hi there 👋 I'm Phuong Nhi</h1>
 
 <p align="center">
-  🎓 Final-year student in Management Information Systems <br>
-  🔍 Specializing in Data Science <br>
-  🏫 Banking University of Ho Chi Minh City <br>
+  🎓 Final-year student in Management Information Systems<br>
+  🔍 Data Science specialization at Banking University of Ho Chi Minh City<br>
 </p>
 
 ---
+## 📚 About this GitHub
 
-## 🎯 Career Objective
+This GitHub serves as a personal archive of my learning journey and projects during university.  
+It includes both individual and group assignments related to data analysis, data science, and business information systems.
 
-To become a Data Analyst or Data Scientist in a dynamic, professional environment  
-where I can apply my skills in data analysis, visualization, and machine learning  
-to solve real-world problems and create business value.
+All repositories here reflect what I've learned, practiced, and collaborated on – from small exercises to full-scale reports and dashboards.  
+Feel free to explore, reuse, or get inspired!
+
+---
+## 👩‍💻 About Me
+
+I'm a data enthusiast who enjoys exploring real-world problems through data.  
+Throughout university, I've focused on building skills in data analytics, visualization, and machine learning.  
+This GitHub is where I document my learning journey through personal and group projects — from exploratory data analysis to predictive modeling and dashboard design.  
+I value clean code, reproducible workflows, and meaningful insights that support decision-making.
 
 ---
 
-## 🛠️ Skills
+## 💡 Skills
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
 - **Tools & Platforms:** Tableau, Excel, Git, Google Colab, Jupyter Notebook  
-- **Concepts:** Data Cleaning, Exploratory Data Analysis, Regression, Classification  
-- **Soft Skills:** Teamwork, Problem-solving, Report writing, Public speaking
+- **Concepts:** Data Cleaning, EDA, Regression, Classification  
+- **Soft Skills:** Teamwork, Problem-solving, Report writing, Presentation
 
 ---
 
@@ -33,23 +37,14 @@ to solve real-world problems and create business value.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Personal Spending Analysis](https://github.com/ngy-phnhi/spending-analysis) | Analyzing monthly expenses & savings with Python and visualizing in Tableau | Python, Tableau |
-| [Exam Score Prediction](https://github.com/ngy-phnhi/exam-score-prediction) | Predicting student exam scores using Linear Regression | Python, Scikit-learn |
-| [Group Report - Survey Analysis](https://github.com/ngy-phnhi/group-survey-analysis) | Data cleaning and analysis from group project in university | Python, Excel |
-
-> ℹ️ More projects will be updated soon...
+| [Personal Spending Analysis](https://github.com/ngy-phnhi/spending-analysis) | Analyze expenses & savings with Python + Tableau | Python, Tableau |
+| [Exam Score Prediction](https://github.com/ngy-phnhi/exam-score-prediction) | Predict exam scores using Linear Regression | Python, Scikit-learn |
+| [Group Report - Survey Analysis](https://github.com/ngy-phnhi/group-survey-analysis) | Clean and analyze group-collected data | Python, Excel |
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- Email: ph3nhinguyen@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/ngy-phnhi/
-- GitHub: [github.com/ngy-phnhi](https://github.com/ngy-phnhi)
-
----
-
-<p align="center">
-  Thank you for visiting my profile 🙏
-</p>
-
+- 📧 Email: [ph3nhinguyen@gmail.com](mailto:ph3nhinguyen@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/ngy-phnhi](https://www.linkedin.com/in/ngy-phnhi)  
+- 💻 GitHub: [github.com/ngy-phnhi](https://github.com/ngy-phnhi)
