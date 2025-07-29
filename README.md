@@ -37,7 +37,7 @@ I value clean code, reproducible workflows, and meaningful insights that support
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Personal Spending Analysis](https://github.com/ngy-phnhi/spending-analysis) | Analyze expenses & savings with Python + Tableau | Python, Tableau |
+| [ML heart disease](https://github.com/ngy-phnhi/ml-heart-disease) | Analyze expenses & savings with Python + Tableau | Python, Tableau |
 | [Exam Score Prediction](https://github.com/ngy-phnhi/exam-score-prediction) | Predict exam scores using Linear Regression | Python, Scikit-learn |
 | [Group Report - Survey Analysis](https://github.com/ngy-phnhi/group-survey-analysis) | Clean and analyze group-collected data | Python, Excel |
 
