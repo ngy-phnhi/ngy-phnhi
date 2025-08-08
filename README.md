@@ -27,9 +27,9 @@ I value clean code, reproducible workflows, and meaningful insights that support
 ## 💡 Skills
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Scikit-learn...), SQL  
-- **Tools & Platforms:** Tableau, Excel, Git, Google Colab, Jupyter Notebook  
+- **Tools & Platforms:** Tableau, Excel, Google Colab, Jupyter Notebook  
 - **Concepts:** Data Cleaning, EDA, Regression, Classification  
-- **Soft Skills:** Teamwork, Problem-solving, Report writing, Presentation
+- **Soft Skills:** Teamwork, Problem-solving, Report writing
 
 ---
 
