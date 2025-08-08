@@ -9,7 +9,7 @@
 ## 📚 About this GitHub
 
 This GitHub serves as a personal archive of my learning journey and projects during university.  
-It includes both individual and group assignments related to data analysis, data science, and business information systems.
+It includes both individual and group assignments related to data analysis, data science.
 
 All repositories here reflect what I've learned, practiced, and collaborated on – from small exercises to full-scale reports and dashboards.  
 Feel free to explore, reuse, or get inspired!
