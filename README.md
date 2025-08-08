@@ -38,7 +38,7 @@ I value clean code, reproducible workflows, and meaningful insights that support
 | Project | Description | Tech |
 |--------|-------------|------|
 | [ML heart disease](https://github.com/ngy-phnhi/ml-heart-disease) | Using ML with EDA and model evaluation | Python,Scikit-learn, Pandas, Matplotlib... |
-| [Group project- Machine Learning Regression: Housing vs Stock Market](https://github.com/ngy-phnhi/ML-EDA-regression-pca) | Applied supervised learning to predict California housing prices and S&P 500 stock market movements using PCA and regression models |  Python, Scikit-learn, Pandas, Matplotlib... |
+| [Group project- Machine Learning Regression: Housing ](https://github.com/ngy-phnhi/ML-EDA-regression-pca) | Applied supervised learning to predict California housing prices |  Python, Scikit-learn, Pandas, Matplotlib... |
 | [Group Report - Personal finance](https://github.com/ngy-phnhi/spending-demographics-dashboard) | Analyze expenses & savings overview  with Python + Tableau | Python, Tableau |
 | [Group Report - Sale-data warehouse](https://github.com/ngy-phnhi/sales-data-warehouse) || SQL, SSIS, Excel |
 
